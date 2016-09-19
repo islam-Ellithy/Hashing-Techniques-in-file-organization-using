@@ -1,0 +1,50 @@
+/////////input 1
+Ahmed Moh Mohamed Morsy Gomah\3.5\Cairo, Shobra\01112345680\cs
+Hamed Ahm Mohamed Morsy Gomah\2.4\Cairo, Shobra\01112345682\cs
+Hanan saied Mohamed Morsy Gomah\4\Cairo, Shobra\01112345684\cs
+Hamdy omar Mohamed Morsy Gomah\3.4\Cairo, 6 october\01112345686\IS
+Hamoda rady Said Sayed Ahmed Ibrahim\2\Alex, asafra\01112345688\IS
+Ali Ali Said Sayed Ahmed Ibrahim\3\Cairo, 6 october\01112345690\IS
+Alaa Ahm Said Sayed Ahmed Ibrahim\4.1\Asout, street 10\01112345692\IS
+Alleia Saad Said Sayed Ahmed Ibrahim\5\Cairo, 6 october\01112345694\IS
+Aliaa mansour Said Sayed Ahmed Ibrahim\3\Asout, street 10\01112345696\IS
+Ayman Fawzy Said Sayed Ahmed Ibrahim\1\Cairo, Shobra\01112345698\IS
+Mostafa Mohamed Morsy Gomah\2\Cairo, 6 october\01112345700\IS
+Mohamed Ibrahim Hasan Abu Jabr\3\Cairo, 6 october\01112345702\CS
+
+////////////////////////////////////////delete
+Mohamed Ibrahim Hosni El-Gahawy
+Walla Safan Mohamed Safan Mohamed
+Mahmoud Rafik Younes Dalloul
+Basem Zeiad Eshak Alghosain
+Mohammed Fathy Hussien Abu-Eleyan
+Mohammed Moroh Kamel Zaid
+Mohammad Nehad Eshaq Mahmoud Al-Ghosin
+Zaid Ali Fahad Irshaid
+Bsama Abd El Manam Ali Al Hammali
+Ahmed El-Sayed Ahmed Mohamed Ghobish
+Hani Abd Karem Abd Malek Abu Rjelah
+Engy Mohamed Farouk Abdel-Aziz Aly
+Mohamed Mossad Abdel-Allah Hassan
+Hamam Mansour Saied Al-Gamdi
+Abd El Rahman Hassan Mohamed El Deeb
+
+//////////////////////////input2
+
+Mohamed Fathy Ahmed Mohamed Al-omar\1.1\Cairo, Shobra\1112345732\cs
+Ahmed Abdalla Muosallm Khalil Al-Najjar\1.5\Cairo, Shobra\1112345735\cs
+Abd EL-Latef Ahmed Mohamed Nagi\1.9\Cairo, Shobra\1112345738\cs
+Abdel -Aziz Saleh Mohammed Jahlan\2.3\Cairo, Shobra\1112345741\IS
+Samah Ahmed Ali Ahmed\2.7\Alex, asafra\1112345744\IS
+Hatem Amin Mohamed Al-Natour\3.1\Alex, asafra\1112345747\IS
+Mohamed Ali Mohamed Shabtah\3.5\Alex, asafra\1112345750\IS
+Abd Allah Omar Abod Sakloua\3.9\Alex, asafra\1112345753\IS
+Ghali Shaban Ghali Khader\4.3\Alex, asafra\1112345756\IS
+Ayman Hussien Mohamed Chewai\4.7\Cairo, 6 october\1112345759\IS
+Mohamed Rezk Mohamed Jel Jon\1.2\Cairo, 6 october\1112345762\IS
+Abd alla Mohamed Ganem AL-Dhubaibi\1.6\Cairo, 6 october\1112345765\CS
+Gamil Abdul-Karem Abdo Al-Mesbahi\2\Cairo, 6 october\1112345768\CS
+Mohammed Saleh Salem Al-Tuhaifi\2.4\Cairo, 6 october\1112345771\CS
+Jaberti Ali Mohamoud\2.8\Cairo, 6 october\1112345774\CS
+
+
